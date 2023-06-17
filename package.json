@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node": "^20.2.0",
+    "nodemon": "^2.0.22"
+  },
+  "script":{
+    "start":"nodemon app.js"
+  }
+  
+}
