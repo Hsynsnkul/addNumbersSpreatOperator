@@ -3,7 +3,7 @@
     "node": "^20.2.0",
     "nodemon": "^2.0.22"
   },
-  "script":{
+  "scripts":{
     "start":"nodemon app.js"
   }
   
