@@ -7,4 +7,5 @@ const addNumbersSpreadOperator=(...numbers)=>{
     return sum;
 }
 
-console.log(addNumbersSpreadOperator(1,2,3,4,5,6,7));
+console.log(addNumbersSpreadOperator(1,2,3,4,5,6,7,8,9));
+
